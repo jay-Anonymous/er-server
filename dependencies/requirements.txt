@@ -159,7 +159,7 @@ defusedxml==0.7.1
     # via nbconvert
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.19
+django==4.2.22
     # via
     #   -r requirements.in
     #   django-bitfield
@@ -443,7 +443,7 @@ jupyter-client==8.2.0
     #   nbclassic
     #   nbclient
     #   notebook
-jupyter-core==5.3.1
+jupyter-core==5.8.0
     # via
     #   ipykernel
     #   jupyter-client
