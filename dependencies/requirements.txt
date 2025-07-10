@@ -615,7 +615,7 @@ proto-plus==1.22.2
     #   google-cloud-appengine-logging
     #   google-cloud-error-reporting
     #   google-cloud-logging
-protobuf==4.23.3
+protobuf==4.25.8
     # via
     #   google-api-core
     #   google-cloud-appengine-logging
@@ -871,7 +871,7 @@ uritemplate==4.1.1
     # via
     #   coreapi
     #   google-api-python-client
-urllib3==1.25.11
+urllib3==2.5.0
     # via
     #   -r requirements.in
     #   botocore
