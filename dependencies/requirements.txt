@@ -10,7 +10,7 @@ affine==2.4.0
     # via
     #   rasterio
     #   rasterstats
-aiohttp==3.8.4
+aiohttp==3.12.14
     # via
     #   aiohttp-retry
     #   twilio
