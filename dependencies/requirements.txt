@@ -159,7 +159,7 @@ defusedxml==0.7.1
     # via nbconvert
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.19
+django==4.2.24
     # via
     #   -r requirements.in
     #   django-bitfield
@@ -256,7 +256,7 @@ entrypoints==0.4
     #   nbconvert
 et-xmlfile==1.1.0
     # via openpyxl
-eventlet==0.30.2
+eventlet==0.40.3
     # via -r requirements.in
 exceptiongroup==1.1.1
     # via anyio
