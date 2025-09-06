@@ -241,7 +241,7 @@ dill==0.3.6
     # via pylint
 distlib==0.3.6
     # via virtualenv
-django==3.2.19
+django==4.2.24
     # via
     #   -r ./requirements.txt
     #   django-bitfield
@@ -355,7 +355,7 @@ et-xmlfile==1.1.0
     # via
     #   -r ./requirements.txt
     #   openpyxl
-eventlet==0.30.2
+eventlet==0.40.3
     # via -r ./requirements.txt
 exceptiongroup==1.1.1
     # via
@@ -1339,7 +1339,7 @@ wrapt==1.15.0
     #   -r ./requirements.txt
     #   astroid
     #   deprecated
-xmltodict==0.13.0
+xmltodict==0.15.0
     # via -r ./requirements.txt
 xmlunittest==0.5.0
     # via -r requirements-dev.in
