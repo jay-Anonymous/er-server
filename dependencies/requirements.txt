@@ -896,7 +896,7 @@ widgetsnbextension==4.0.7
     #   ipywidgets
 wrapt==1.15.0
     # via deprecated
-xmltodict==0.13.0
+xmltodict==0.15.0
     # via -r requirements.in
 yarl==1.9.2
     # via aiohttp
