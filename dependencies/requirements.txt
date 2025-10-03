@@ -459,7 +459,7 @@ jupyter-server==1.24.0
     #   jupyterlab-server
     #   nbclassic
     #   notebook-shim
-jupyterlab==3.5.3
+jupyterlab==4.4.8
     # via arcgis
 jupyterlab-pygments==0.2.2
     # via nbconvert
