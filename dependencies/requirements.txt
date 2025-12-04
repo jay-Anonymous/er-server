@@ -159,7 +159,7 @@ defusedxml==0.7.1
     # via nbconvert
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.19
+django==4.2.27
     # via
     #   -r requirements.in
     #   django-bitfield
@@ -809,7 +809,7 @@ snuggs==1.4.7
     # via rasterio
 soupsieve==2.4.1
     # via beautifulsoup4
-sqlparse==0.4.4
+sqlparse==0.5.4
     # via
     #   django
     #   django-debug-toolbar
