@@ -381,7 +381,7 @@ fastjsonschema==2.17.1
     # via
     #   -r ./requirements.txt
     #   nbformat
-filelock==3.12.2
+filelock==3.20.1
     # via virtualenv
 fiona==1.9.4.post1
     # via
