@@ -10,7 +10,7 @@ affine==2.4.0
     # via
     #   rasterio
     #   rasterstats
-aiohttp==3.8.4
+aiohttp==3.13.3
     # via
     #   aiohttp-retry
     #   twilio
@@ -871,7 +871,7 @@ uritemplate==4.1.1
     # via
     #   coreapi
     #   google-api-python-client
-urllib3==1.25.11
+urllib3==2.6.3
     # via
     #   -r requirements.in
     #   botocore
