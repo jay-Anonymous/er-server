@@ -751,7 +751,7 @@ nbclient==0.5.13
     # via
     #   -r ./requirements.txt
     #   nbconvert
-nbconvert==6.4.5
+nbconvert==7.17.0
     # via
     #   -r ./requirements.txt
     #   jupyter-server
@@ -892,7 +892,7 @@ proto-plus==1.22.2
     #   google-cloud-appengine-logging
     #   google-cloud-error-reporting
     #   google-cloud-logging
-protobuf==4.23.3
+protobuf==6.33.5
     # via
     #   -r ./requirements.txt
     #   google-api-core
