@@ -159,7 +159,7 @@ defusedxml==0.7.1
     # via nbconvert
 deprecated==1.2.14
     # via jwcrypto
-django==3.2.19
+django==4.2.28
     # via
     #   -r requirements.in
     #   django-bitfield
@@ -518,7 +518,7 @@ nbclassic==1.0.0
     #   notebook
 nbclient==0.5.13
     # via nbconvert
-nbconvert==6.4.5
+nbconvert==7.17.0
     # via
     #   jupyter-server
     #   nbclassic
@@ -615,7 +615,7 @@ proto-plus==1.22.2
     #   google-cloud-appengine-logging
     #   google-cloud-error-reporting
     #   google-cloud-logging
-protobuf==4.23.3
+protobuf==5.29.6
     # via
     #   google-api-core
     #   google-cloud-appengine-logging
